@@ -161,7 +161,3 @@ The current model is based on DistilGPT-2, so its capabilities are relatively li
 Website structure and availability can change over time, so the scraper may require updates if the site changes.
 
 Make sure any data you collect or use is handled in accordance with the source site's terms and applicable copyright rules.
-
-## License
-
-See `LICENCE.MD` for the license terms applying to this repository.
